@@ -1,3 +1,0 @@
--keep class com.aiagent.app.** { *; }
--keep class okhttp3.** { *; }
--keep class org.json.** { *; }
